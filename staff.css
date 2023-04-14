@@ -12,21 +12,21 @@ body{
   flex-wrap: wrap;
   } 
   .btn{ 
-  width: 161px;
-  background: #000; 
-  color: #fff; 
-  border-radius: 10px; 
-  text-decoration: none;  
-  font-family: 'Pirata One';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 25px; 
-   position: relative;
-   right: 10px;
-   bottom: 22px; 
-   display: inline-block; 
-   text-align: center; 
-   padding: 10px 10px;
+    width: 161px;
+    background: #000; 
+    color: #fff; 
+    border-radius: 10px; 
+    text-decoration: none;  
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px; 
+    position: relative;
+    right: 10px;
+    bottom: 22px; 
+    display: inline-block; 
+    text-align: center; 
+    padding: 10px 10px;
   } 
   
   .logo{
@@ -58,13 +58,13 @@ body{
     bottom: 30px;
     left: 105px;
   } 
-  .students{
-  position: absolute;
-  right: 102px;
-  bottom: 67px;
-  left: 128px;
-  height:184px;
-  width:144px;
+  .staffs{
+    position: absolute;
+    right: 102px;
+    bottom: 67px;
+    left: 128px;
+    height:184px;
+    width:144px;
   }
   .grid-container { 
     padding-bottom: 10px;
@@ -89,13 +89,12 @@ body{
     bottom: 0.38%;
     width: 144px;
     height: 31px;
-background: #E0C667;
-font-family: 'Pirata One';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 31px;
-color: #000000;
-text-align: center;
-  }
- 
+    background: #E0C667;
+    font-family: 'Pirata One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #000000;
+    text-align: center;
+}
