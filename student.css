@@ -1,0 +1,101 @@
+body{
+    margin: 0; 
+    padding: 0; 
+    font-family: "Open Sans", sans-serif; 
+    background-color: #CDCFEE;
+  } 
+  
+  nav{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  flex-wrap: wrap;
+  } 
+  .btn{ 
+  width: 161px;
+  background: #000; 
+  color: #fff; 
+  border-radius: 10px; 
+  text-decoration: none;  
+  font-family: 'Pirata One';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 25px; 
+   position: relative;
+   right: 10px;
+   bottom: 22px; 
+   display: inline-block; 
+   text-align: center; 
+   padding: 10px 10px;
+  } 
+  
+  .logo{
+    width: 266px;
+    height: 116.51px;
+    position: relative; 
+    left: 2px; 
+    bottom: 1px;
+    
+  }  
+  .side{ 
+    position: relative;
+    left: 11px;
+    width: 76px;
+    
+  }
+  
+  .grid-item {
+    background-color: #CDCFEE;
+    border: 0;
+    padding: 20px; 
+    position: relative; 
+    
+   
+  }  
+  .border {
+    position: absolute;
+    right: 112px;
+    bottom: 30px;
+    left: 105px;
+  } 
+  .students{
+  position: absolute;
+  right: 102px;
+  bottom: 67px;
+  left: 128px;
+  height:184px;
+  width:144px;
+  }
+  .grid-container { 
+    padding-bottom: 10px;
+    display: grid; 
+    background-color: #CDCFEE;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  nav ul li {
+    list-style:none;
+    display: inline-block;
+    margin:10px 20px 0 80px;
+    width: 170px;
+    height: 39px;
+    
+  }
+  .name{
+    position: absolute;
+    left: 30.76%;
+    right: 23.76%;
+    top: 81.7%;
+    bottom: 0.38%;
+    width: 144px;
+height: 31px;
+    background: #E0C667;
+    font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+color: #000000;
+text-align: center;
+  }
+ 
