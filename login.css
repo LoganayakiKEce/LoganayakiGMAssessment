@@ -1,26 +1,25 @@
 body{
-position: relative;
-width: 1440px;
-height: 1024px;
-background-color: #000000;
-background-image: url(images/login_bg.png);
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: #000000;
+    background-image: url(images/login_bg.png);
 }
 .login{
-position: absolute;
-width: 158px;
-height: 75px;
-left: 281px;
-top: 212px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 64px;
-line-height: 75px;
-letter-spacing: -0.015em;
-color: #DCDCDC;
+    position: absolute;
+    width: 158px;
+    height: 75px;
+    left: 281px;
+    top: 212px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    letter-spacing: -0.015em;
+    color: #DCDCDC;
 }
-.email{
+#input_email{
     color:#FFFFFF;
     box-sizing: border-box;
     position: absolute;
@@ -35,42 +34,40 @@ color: #DCDCDC;
     background-blend-mode: overlay;
     padding:40px;
 }
-.password{
+#input_password{
     color:#FFFFFF;
     box-sizing: border-box;
-position: absolute;
-width: 521px;
-height: 80px;
-left: 100px;
-top: 454px;
-border: 1px solid #FCF291;
-backdrop-filter: blur(200px);
-background: linear-gradient(90.23deg, rgba(0, 0, 0, 0.61) 0.19%, rgba(0, 0, 0, 0.38) 102.56%);
-border-radius: 38px;
-padding:40px;
+    position: absolute;
+    width: 521px;
+    height: 80px;
+    left: 100px;
+    top: 454px;
+    border: 1px solid #FCF291;
+    backdrop-filter: blur(200px);
+    background: linear-gradient(90.23deg, rgba(0, 0, 0, 0.61) 0.19%, rgba(0, 0, 0, 0.38) 102.56%);
+    border-radius: 38px;
+    padding:40px; 
 }
 .container{
     position: absolute;
-width: 721px;
-height: 1024px;
-left: 0px;
-top: 0px;
+    width: 721px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
 }
-button{
+#btn{
     position: absolute;
-width: 521px;
-height: 80px;
-left: 100px;
-top: 634px;
-
-background: #FFCD2D;
-backdrop-filter: blur(200px);
-border-radius: 38px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 24px;
-line-height: 28px;
-
-color: #000000;
+    width: 521px;
+    height: 80px;
+    left: 100px;
+    top: 634px;
+    background: #FFCD2D;
+    backdrop-filter: blur(200px);
+    border-radius: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
 }
