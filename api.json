@@ -1,0 +1,59 @@
+{
+    "results":
+    [
+    {
+        "gender":"female",
+        "name":
+        {
+            "title":"Miss",
+            "first":"Nina",
+            "last":"Onufriv"
+        },
+        "location":
+        {
+            "street":
+            {
+                "number":5816,
+                "name":"Provulok Oleni Kovalchuk"
+            },
+           "city":"Sambir",
+           "state":"Sumska",
+           "country":"Ukraine",
+           "postcode":99142,
+           "coordinates":{"latitude":"78.9241","longitude":"61.9600"},
+           "timezone":{"offset":"+3:00","description":"Baghdad, Riyadh, Moscow, St. Petersburg"}
+        },
+        "email":"nina.onufriv@example.com",
+        "login":
+        {
+            "uuid":"9a2896cb-f7ea-4eb5-84c2-e7485cd1a03f",
+            "username":"blacktiger544",
+            "password":"shalom",
+            "salt":"E3O6StXp",
+            "md5":"bedefc0c0f2b249658ac809b7029df6c",
+            "sha1":"e291ec1778fd02c498bdcf3149cd7cb2a2954605",
+            "sha256":"fa44b42b7a2b9fd6d66dc276ecf77f835865aee02d689d3f79fa1aabd1d3b5e3"
+        },
+        "dob":
+        {
+            "date":"1960-01-09T16:20:46.660Z",
+            "age":63
+        },
+        "registered":
+        {
+            "date":"2012-11-21T02:19:52.621Z",
+            "age":10
+        },
+        "phone":"(098) V06-0294",
+        "cell":"(098) M42-6695",
+        "id":{"name":"","value":null},
+        "picture":
+        {
+            "large":"https://randomuser.me/api/portraits/women/34.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/women/34.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/women/34.jpg"
+        },
+        "nat":"UA"
+    }],
+    "info":{"seed":"7d1c85229314a747","results":1,"page":1,"version":"1.4"}
+}

@@ -1,0 +1,235 @@
+body{
+  position: relative;
+width: 1300px;
+height: 600px;
+background: #FFECE8;
+
+}
+.items{
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+  filter: blur(0%);
+}
+.wizardlogo{
+    position: absolute;
+width: 200px;
+height: 90.51px;
+left: 25px;
+top: 10px;
+}
+.image {
+    
+position:absolute;
+width: 1200px;
+height: 570px;
+scroll-margin-bottom: 0%;
+top: 80px;
+margin-left: 30px;
+right: 20px;
+
+}
+
+.container{
+    box-sizing: border-box;
+position:absolute;
+left: 180px;
+right:0px;
+height: 470px;
+width: 1000px;
+bottom: 100px;
+top: 150px;
+background-color: #000000;
+border: 1px solid #000000;
+border-radius: 29px;
+}
+.inner-container{
+  position: absolute;
+left: 19.82px;
+right: 18.64px;
+top: 22.58px;
+bottom: 21.5px;
+background: #9C1801;
+filter: blur(20px);
+border-radius: 29px;
+}
+.icon{
+    position: absolute;
+    height: 204px;
+    width: 180px;
+    left: 37.84%;
+    right: 37.84%;
+bottom: 80.57%;
+filter: blur(0%);
+}
+.harry-img{
+  position: absolute;
+  height: 276px;
+  width: 256px;
+left: 660.38px;
+right: 60.4px;
+top: 50.42px;
+bottom:337.5px;
+filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+border-radius: 21px;
+}
+.name{
+  position: absolute;
+left: 121.38px;
+right: 591.px;
+top: 0px;
+bottom: 617.8px;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 100;
+font-size: 44px;
+
+color: #DCDCDC;
+}
+.species{
+  position: absolute;
+left: 95px;
+right: 847.6px;
+top: 85px;
+bottom:560px;
+height: 31px;
+width: 71px;
+}
+.gender{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 115px;
+bottom:478px;
+}
+.house{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 145px;
+bottom:418px;
+}
+.DOB{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 175px;
+bottom:358.5px;
+}
+
+.ancestry{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 205px;
+bottom:298.5px;
+}
+
+.eye{
+  position: absolute;
+left: 95px;
+right: 780px;
+top: 235px;
+bottom:238.5px;
+}
+
+.haircolor{
+  position: absolute;
+left: 95px;
+right: 780px;
+top: 265px;
+bottom:178.5px;
+}
+
+.wand{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 295px;
+bottom:118px;
+}
+
+.patronus{
+  position: absolute;
+left: 95px;
+right: 847px;
+top: 325px;
+bottom:58.5px;
+}
+
+
+.species-r{
+  position: absolute;
+left: 330.66px;
+right: 591.6px;
+top: 85px;
+bottom:560px;
+height: 31px;
+width: 71px;
+}
+.gender-r{
+  position: absolute;
+left:  330.66px;
+right: 591.6px;
+top: 115px;
+bottom:478px;
+}
+.house-r{
+  position: absolute;
+left:  330.66px;
+right: 591.6px;
+top: 145px;
+bottom:418px;
+}
+.DOB-r{
+  position: absolute;
+left:  330.66px;
+right: 530.6px;
+top: 175px;
+bottom:358.5px;
+}
+
+.ancestry-r{
+  position: absolute;
+left:  330.66px;
+right: 530.6px;
+top: 205px;
+bottom:298.5px;
+}
+
+.eye-r{
+  position: absolute;
+left:  330.66px;
+right: 591.6px;
+top: 235px;
+bottom:238.5px;
+}
+
+.haircolor-r{
+  position: absolute;
+left:  330.66px;
+right: 591.6px;
+top: 265px;
+bottom:178.5px;
+}
+
+.wand-r{
+  position: absolute;
+left:  330.66px;
+right: 400.6px;
+top: 295px;
+bottom:118px;
+}
+
+.patronus-r{
+  position: absolute;
+  left:  330.66px;
+  right: 591.6px;
+  top: 325.5px;
+  bottom:58.5px;
+}

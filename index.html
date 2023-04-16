@@ -20,7 +20,7 @@
           <form method="get" action="student.html" onsubmit="return validation();">
             <div class="input_wrap">
                 <div class="input_field">
-                    <input type="email" class="input" id="input_email" placeholder="Your Email">
+                    <input type="text" class="input" id="input_user" placeholder="Your Username">
                 </div>
             </div>
             <div class="input_wrap">
@@ -28,11 +28,13 @@
                     <input type="password" class="input" id="input_password" placeholder="Your Password">
                 </div>
             </div>
-            <div class="input_wrap">
-                <span class="error_msg">Invalid Crendential</span>
-                <input type="submit" id="btn" class="btn disabled" value="Login" disabled="true">
+            <button id="btn">Login</button>
+            <div>
+                <p id="error-msg"></p>
             </div>
         </form>
     </div>
+    <script src="./api.json"></script>
+    <script src="./login.js"></script>
 </body>
 </html>
